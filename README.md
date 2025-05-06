@@ -30,8 +30,8 @@ Trabalho atualmente em projetos com **React**, **TypeScript**, **Jest** e **Back
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassBarbosa&show_icons=true&theme=radical&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassBarbosa&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yassBarbosa&show_icons=true&theme=radical&hide_border=true" width="45%" height="50px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassBarbosa&theme=radical&hide_border=true" width="45%" height="50px" />
 </p>
 
 <br>
@@ -41,6 +41,6 @@ Trabalho atualmente em projetos com **React**, **TypeScript**, **Jest** e **Back
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> <a href="https://github.com/yassBarbosa">yassBarbosa</a>
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> <a href="https://www.linkedin.com/in/yasmin-barbosa-rodrigues-pinheiro-27a341301/">Yasmin Barbosa Rodrigues Pinheiro</a>
 
-<br>
+<br><br><br>
 
 <p align="center">💬 <em>“Todos nós temos essa chama dentro de nós, e cabe a nós não deixar que se apague.”</em><br>— <strong>Por Lugares Incríveis</strong>, Jennifer Niven</p>
