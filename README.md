@@ -30,8 +30,8 @@ Trabalho atualmente em projetos com **React**, **TypeScript**, **Jest** e **Back
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassBarbosa&show_icons=true&theme=radical&hide_border=true" width="45%" height="30%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassBarbosa&theme=radical&hide_border=true" width="45%" height="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yassBarbosa&show_icons=true&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassBarbosa&theme=radical&hide_border=true" width="45%" />
 </p>
 
 <br>
